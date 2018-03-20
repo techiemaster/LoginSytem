@@ -1,12 +1,6 @@
-<?php include 'server.php';?>
+<?php include 'header.php';?>
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Web Design Davao Logs</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body class="login">
+
 
 <div class="wrapper">
 	<h2 class="center wdd">Web Dev | Homepage</h2>
@@ -29,5 +23,4 @@
 </div>
 
 
-</body>
-</html>
+<?php include 'footer.php';?>
