@@ -8,12 +8,12 @@
 			<?php include 'errors.php';?>
 
 			<div class="input-group">
-				<label>Username</label>
-				<input type="text" name="username">
+				 
+				<input type="text" name="username" placeholder="Username">
 			</div>
 			<div class="input-group">
-				<label>Password</label>
-				<input type="password" name="password">
+				 
+				<input type="password" name="password" placeholder="Password">
 			</div>
 			<div class="input-group">
 				<button type="submit" name="login" class="btn">Login</button>
