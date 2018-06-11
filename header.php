@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Web Design Davao Logs</title>
+	<title>Web Design Davao Log</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body class="login">
